@@ -4,64 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GitHub Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #0d1117;
-            color: #c9d1d9;
-            margin: 0;
-            padding: 0;
-        }
-        .container {
-            max-width: 900px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        .profile-header {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-        }
-        .profile-header h1 {
-            font-size: 24px;
-        }
-        .stats, .languages {
-            background-color: #161b22;
-            border-radius: 8px;
-            padding: 20px;
-            margin-top: 20px;
-            display: flex;
-            justify-content: space-between;
-        }
-        .stat {
-            text-align: center;
-        }
-        .stat h2 {
-            font-size: 28px;
-            margin: 10px 0;
-        }
-        .languages .bar {
-            background-color: #58a6ff;
-            height: 15px;
-            border-radius: 5px;
-        }
-        .languages .label {
-            margin: 5px 0;
-        }
-        .social-links {
-            margin-top: 20px;
-            text-align: center;
-        }
-        .social-links a {
-            margin: 0 10px;
-            color: white;
-            text-decoration: none;
-            font-size: 18px;
-        }
-        .social-links a:hover {
-            text-decoration: underline;
-        }
-    </style>
 </head>
 <body>
     <div class="container">
