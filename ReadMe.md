@@ -7,7 +7,7 @@
 <body>
     <div class="container">
         <div class="profile-header">
-            <h1>Hi 👋! My name is Ibrahim and Im a computer engineering student, from Türkiye.</h1>
+            <h1>Hi 👋! My name is Ibrahim and Im a computer engineering student, from Türkiye. </h1>
         </div>
         <div class="stats">
             <div class="stat">
