@@ -94,7 +94,6 @@
                 <p>Longest Streak</p>
             </div>
         </div>
-
         <div class="languages">
             <div class="language">
                 <div class="label">Jupyter Notebook 67.60%</div>
@@ -117,7 +116,6 @@
                 <div class="bar" style="width: 0.36%; background-color: #178600;"></div>
             </div>
         </div>
-
         <div class="social-links">
             <a href="https://www.instagram.com/ibrhmgldmr/">INSTAGRAM</a>
             <a href="https://www.linkedin.com/in/ibrhmgldmr/">LINKEDIN</a>
