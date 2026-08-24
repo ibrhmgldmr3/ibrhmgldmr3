@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba, ben İbrahim Güldemir 👋</h1>
 
 <p align="center">
-Sakarya Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencisi | Yapay Zeka & Bilgisayarlı Görü Meraklısı
+Sakarya Üniversitesi Bilgisayar Mühendisliği Mezunuyum | Yapay Zeka & Bilgisayarlı Görü & Full-Stack Yazılım Meraklısı
 </p>
 
 <p align="center">
