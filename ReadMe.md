@@ -14,7 +14,7 @@ Sakarya Üniversitesi Bilgisayar Mühendisliği Mezunuyum | Yapay Zeka & Bilgisa
 
 ## 🚀 Hakkımda
 
-Sakarya Üniversitesi'nde Bilgisayar Mühendisliği okuyorum ve mezuniyete yaklaşıyorum. Ankageo'da staj yaptım (Next.js, React, Node.js, TypeScript, Prisma) ve şu anda **Sakarya Üniversitesi Yapay Zeka Topluluğu**'nda birim lideri olarak görev alıyorum.
+Sakarya Üniversitesi'nde Bilgisayar Mühendisliği okuyorum ve mezuniyete yaklaşıyorum. Ankageo'da staj yaptım (Next.js, React, Node.js, TypeScript, Prisma) ve şu anda **Sakarya Üniversitesi Yapay Zeka Topluluğu**'nda birim lideri olarak görev aldım.
 
 Yapay zeka, makine öğrenmesi, bilgisayarlı görü ve IoT tabanlı gerçek zamanlı sistemler üzerine pratik projeler geliştiriyorum. Şu anda Türkiye ve yurt dışında AI/ML, bilgisayarlı görü, veri mühendisliği ve yazılım geliştirme alanlarında; özellikle savunma ve güvenlik teknolojileri sektöründe fırsatlar arıyorum.
 
