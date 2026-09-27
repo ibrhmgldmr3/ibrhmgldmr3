@@ -15,11 +15,8 @@ Yapay Zeka · Bilgisayarlı Görü · Veri Mühendisliği · Full-Stack
 
 ## 🚀 Hakkımda
 
-Sakarya Üniversitesi Bilgisayar Mühendisliği bölümünden mezun oldum. Ankageo'da full-stack staj yaptım (Next.js, React, Node.js, TypeScript, Prisma) ve **Sakarya Üniversitesi Yapay Zeka Topluluğu**'nda birim lideri olarak görev aldım.
-
+Sakarya Üniversitesi Bilgisayar Mühendisliği bölümünden mezun oldum. 
 Yapay zeka, makine öğrenmesi, bilgisayarlı görü ve gerçek zamanlı veri sistemleri üzerine uçtan uca projeler geliştiriyorum: veri hazırlığından model eğitimine, değerlendirmeden API ve arayüzle servis etmeye kadar.
-
-🔭 Şu anda Türkiye ve yurt dışında **AI/ML, bilgisayarlı görü, veri mühendisliği ve yazılım geliştirme** alanlarında; özellikle **savunma ve güvenlik teknolojileri** sektöründe fırsatlar arıyorum.
 
 ---
 
