@@ -2,10 +2,11 @@
 
 <p align="center">
 Bilgisayar Mühendisi · Sakarya Üniversitesi<br/>
-Yapay Zeka · Bilgisayarlı Görü · Veri Mühendisliği · Full-Stack
+AI Engineer (LLM) · Full Stack Geliştirici · Bilgisayarlı Görü
 </p>
 
 <p align="center">
+  <a href="https://ibrhmgldmr3.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolyo-222222?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ibrhmgldmr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ibrahimguldemir123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/ibrhmgldmr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -22,11 +23,16 @@ Yapay zeka, makine öğrenmesi, bilgisayarlı görü ve gerçek zamanlı veri si
 
 ## 🎯 Şu An Üzerinde Çalıştıklarım
 
-- 🎸 **AI Music Transcriber** *(repo yakında)* — Gitar kayıtlarını nota, MIDI ve gitar TAB'ına dönüştüren uçtan uca otomatik müzik transkripsiyonu sistemi. Notaları CNN + BiLSTM modeli tespit ediyor; hangi tel ve perdede çalınacağına tab kafalı bir model ile Viterbi tabanlı bir parmak yolu optimizer'ı birlikte karar veriyor. GuitarSet testinde nota F1 **0.90**, tel/perde isabeti **0.95**. Sonuçlar TAB, piyano rulosu ve nota görünümü olan bir müzik editöründe düzenlenip MIDI/MusicXML olarak dışa aktarılabiliyor. *PyTorch · FastAPI · Celery · Next.js*
-- 📺 **[Make A Playlist](https://github.com/ibrhmgldmr3/LLM-AGENT-PlaylistMaker)** — Playlist oluşturucuyu, videolar ve belgeler üzerinden kaynak göstererek cevap veren RAG destekli bir öğrenme platformuna dönüştürüyorum.
-- 🚌 **[GTFS Service](https://github.com/ibrhmgldmr3/gtfs_service_1)** — Kullanıcı hesaplarıyla herkesin kendi GTFS ve akıllı kart verisini yükleyip analiz edebileceği bir toplu taşıma analiz platformuna dönüştürüyorum.
-- 🥫 **macroLLM** — Paketli gıda etiketlerinden besin değerlerini çıkaran OCR + LLM sistemi (PaddleOCR, QLoRA ile fine-tune edilmiş Qwen2.5). vLLM ile servis edilip, kullanıcıların tükettikleri paketli gıdaları takip edebildiği bir uygulamaya dönüşecek.
-- ✈️ **[Trip Planner](https://github.com/ibrhmgldmr3/Trip-Planner)** — Maliyet ve mesafe hesaplarını iyileştirip yayına almaya hazırlıyorum.
+- 🪰 **[FlyHire](https://github.com/ibrhmgldmr3/fly_kingo)** — İş ilanlarını bir LLM ile skorlayıp kararı **139.255 nöronlu bir meyve sineği beynine** bırakan deneysel bir öneri sistemi. İlan puanları sineğin tat nöronlarına (şeker, su, acı) spike olarak veriliyor; karar, FlyWire connectome'u üzerinde çalışan LIF modelinde hortum motor nöronunun (MN9) ateşleme oranından çıkıyor. Son onay her zaman insanda. Faz 1 tamam: simülasyon, Shiu et al. (2024) sonuçlarını tekrar üretiyor. *PyTorch · LIF / Brian2 · FlyWire · PostgreSQL*
+- 🎸 **[AI Music Transcriber](https://github.com/ibrhmgldmr3/ai_music_transcriber)** — Gitar kayıtlarını nota, MIDI ve gitar TAB'ına dönüştüren uçtan uca otomatik müzik transkripsiyonu sistemi. Notaları CNN + BiLSTM modeli tespit ediyor; hangi tel ve perdede çalınacağına tab kafalı bir model ile Viterbi tabanlı bir parmak yolu optimizer'ı birlikte karar veriyor. GuitarSet testinde nota F1 **0.90**, tel/perde isabeti **0.95**. Yeni eklenenler: bir şarkıdan gitar akorlarını ve vokal melodinin TAB'ını çıkaran şarkı modu, söylenen ya da mırıldanan melodiden TAB ve metronomsuz kayıtlar için vuruş takibi. *PyTorch · FastAPI · Celery · Next.js*
+- 💸 **[Kişisel Harcama Takip](https://github.com/ibrhmgldmr3/kisiselHarcamaTakipUygulama)** — Çok kullanıcılı masaüstü harcama ve gelir takip uygulaması. TRY, USD ve EUR kayıtları canlı kurla TL'ye çevriliyor; raporlar, kategori dağılımı, CSV dışa aktarma, BCrypt ile şifreleme ve oturum zaman aşımı var. *Java 17 · JavaFX · PostgreSQL*
+
+**🔜 Sırada**
+
+- 📺 [Make A Playlist](https://github.com/ibrhmgldmr3/LLM-AGENT-PlaylistMaker)'i RAG destekli bir öğrenme platformuna dönüştürmek
+- 🚌 [GTFS Service](https://github.com/ibrhmgldmr3/gtfs_service_1)'i herkesin kendi GTFS ve akıllı kart verisini yükleyip analiz edebileceği bir platforma çevirmek
+- 🥫 **macroLLM**: paketli gıda etiketlerinden besin değerlerini OCR + LLM ile çıkaran sistemi (PaddleOCR, QLoRA ile fine-tune edilmiş Qwen2.5) vLLM ile servis edip gıda takip uygulamasına dönüştürmek
+- ✈️ [Trip Planner](https://github.com/ibrhmgldmr3/Trip-Planner)'ın maliyet ve mesafe hesaplarını iyileştirip yayına almak
 
 ---
 
@@ -49,13 +55,14 @@ Yapay zeka, makine öğrenmesi, bilgisayarlı görü ve gerçek zamanlı veri si
 | [**Make A Playlist**](https://github.com/ibrhmgldmr3/LLM-AGENT-PlaylistMaker) | Bir öğrenme hedefini sıralı bir YouTube oynatma listesine çeviriyor; videolar ve belgeler üzerinden saniyesine kadar kaynak gösteren soru-cevap | Gemini, FastAPI, React, Redis, Docker |
 | [**RAG Document Assistant**](https://github.com/ibrhmgldmr3/rag_systems) | PDF koleksiyonları için kaynak gösterimli soru-cevap; hibrit retrieval, reranking ve guardrail'ler | FAISS, BM25, Transformers, FastAPI |
 
-**📡 Veri Mühendisliği & Full-Stack**
+**📡 Veri Mühendisliği, Full-Stack & Masaüstü**
 
 | Proje | Açıklama | Teknolojiler |
 |---|---|---|
 | [**GTFS Service**](https://github.com/ibrhmgldmr3/gtfs_service_1) | Planlanan toplu taşıma tarifesini akıllı kart verisiyle eşleştirip dakiklik ve kümelenme (bunching) analizi yapan servis | FastAPI, PostgreSQL, Celery, Airflow, RabbitMQ, React |
 | [**IoT Veri Akışı Simülasyonu**](https://github.com/ibrhmgldmr3/IOT_Based_Data_Flow_Simulation) | Config tabanlı gerçek zamanlı büyük veri pipeline'ı: sensör verisi → Kafka → Spark Streaming → MongoDB | Kafka, Spark, MongoDB, Docker |
 | [**Trip Planner**](https://github.com/ibrhmgldmr3/Trip-Planner) | Stajda geliştirdiğim AI destekli seyahat planlama ve bütçe yönetimi platformu | Next.js, TypeScript, Prisma, NextAuth |
+| [**Usage Widget**](https://github.com/ibrhmgldmr3/usage-widget) | Claude, Codex ve Antigravity'deki kalan kullanım kotasını Windows sistem tepsisinden gösteren saydam widget; harcama hızına göre kotanın ne zaman biteceğini tahmin ediyor ve eşik altına düşünce bildirim gönderiyor | C#, .NET 9, WPF |
 
 ---
 
@@ -67,6 +74,7 @@ Yapay zeka, makine öğrenmesi, bilgisayarlı görü ve gerçek zamanlı veri si
 ![C](https://img.shields.io/badge/C-333333?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-333333?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-333333?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-333333?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-333333?style=for-the-badge&logo=mysql&logoColor=white)
@@ -120,6 +128,7 @@ Yapay zeka, makine öğrenmesi, bilgisayarlı görü ve gerçek zamanlı veri si
 - İleri düzey makine öğrenmesi ve derin öğrenme
 - Bilgisayarlı görü modellerinin production'a alınması (ONNX / TensorRT, servisleştirme)
 - Ses ve müzik sinyal işleme (otomatik müzik transkripsiyonu)
+- Spiking sinir ağları ve hesaplamalı sinirbilim
 - Gerçek zamanlı veri işleme sistemleri
 - Bulut tabanlı backend mimarileri
 - LLM tabanlı uygulama tasarımı
